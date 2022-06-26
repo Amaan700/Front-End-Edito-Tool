@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Front-End-Editor-Tool/static/css/main.7d2118c4.chunk.css",
+    "main.js": "/Front-End-Editor-Tool/static/js/main.f9038633.chunk.js",
+    "main.js.map": "/Front-End-Editor-Tool/static/js/main.f9038633.chunk.js.map",
+    "runtime-main.js": "/Front-End-Editor-Tool/static/js/runtime-main.7ce2b6d4.js",
+    "runtime-main.js.map": "/Front-End-Editor-Tool/static/js/runtime-main.7ce2b6d4.js.map",
+    "static/css/2.c46397a6.chunk.css": "/Front-End-Editor-Tool/static/css/2.c46397a6.chunk.css",
+    "static/js/2.645c2a15.chunk.js": "/Front-End-Editor-Tool/static/js/2.645c2a15.chunk.js",
+    "static/js/2.645c2a15.chunk.js.map": "/Front-End-Editor-Tool/static/js/2.645c2a15.chunk.js.map",
+    "index.html": "/Front-End-Editor-Tool/index.html",
+    "precache-manifest.41fbca832699c283e9fea4d49ff560c1.js": "/Front-End-Editor-Tool/precache-manifest.41fbca832699c283e9fea4d49ff560c1.js",
+    "service-worker.js": "/Front-End-Editor-Tool/service-worker.js",
+    "static/css/2.c46397a6.chunk.css.map": "/Front-End-Editor-Tool/static/css/2.c46397a6.chunk.css.map",
+    "static/css/main.7d2118c4.chunk.css.map": "/Front-End-Editor-Tool/static/css/main.7d2118c4.chunk.css.map",
+    "static/js/2.645c2a15.chunk.js.LICENSE.txt": "/Front-End-Editor-Tool/static/js/2.645c2a15.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ce2b6d4.js",
+    "static/css/2.c46397a6.chunk.css",
+    "static/js/2.645c2a15.chunk.js",
+    "static/css/main.7d2118c4.chunk.css",
+    "static/js/main.f9038633.chunk.js"
+  ]
+}
